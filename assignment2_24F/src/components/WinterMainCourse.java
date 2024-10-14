@@ -12,7 +12,7 @@ public class WinterMainCourse implements MainCourse {
     
 	@Override
     public String toString() {
-		return "Main Course\nSirloin\nSalmon Croquettes\nSteak and Fries\n";
+		return "Main Course:\nSirloin\nSalmon Croquettes\nSteak and Fries\n";
 		
 	} 
 }

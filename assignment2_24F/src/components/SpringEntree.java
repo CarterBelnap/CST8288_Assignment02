@@ -12,7 +12,7 @@ public class SpringEntree implements Entree {
     
 	@Override
     public String toString() {
-		return "Entree\nLobster Veracruzana\nOrganic Ocean Halibut\nMushroom Soup\n";
+		return "Entree:\nLobster Veracruzana\nOrganic Ocean Halibut\nMushroom Soup\n";
 		
 	}
 }

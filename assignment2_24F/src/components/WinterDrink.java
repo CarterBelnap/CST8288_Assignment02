@@ -12,7 +12,7 @@ public class WinterDrink implements Drink  {
     
 	@Override
     public String toString() {
-		return "Drinks\nMojito\nAlcohol Free Wine\nTequila\n";
+		return "Drinks:\nMojito\nAlcohol Free Wine\nTequila\n";
 		
 	}   
 }

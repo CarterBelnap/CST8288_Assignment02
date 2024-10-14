@@ -12,6 +12,6 @@ public class FallEntree implements Entree {
 
 	@Override
     public String toString() {
-		return "Entree\nSpinach and Artichoke Dip\nSesame Soy Tuna Tartare\nTuscan Bruschetta\n";
+		return "Entree:\nSpinach and Artichoke Dip\nSesame Soy Tuna Tartare\nTuscan Bruschetta\n";
 	}
 }

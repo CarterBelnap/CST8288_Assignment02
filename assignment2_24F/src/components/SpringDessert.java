@@ -12,7 +12,7 @@ public class SpringDessert implements Dessert {
    
 	@Override
     public String toString() {
-		return "Desserts\nVanilla Crème Brûlée\nWhite Chocolate Brownie\nPassion Fruit Fig Tart\n";
+		return "Desserts:\nVanilla Crème Brûlée\nWhite Chocolate Brownie\nPassion Fruit Fig Tart\n";
 		
 	}
 }

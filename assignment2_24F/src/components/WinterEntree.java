@@ -12,7 +12,7 @@ public class WinterEntree implements Entree {
   
 	@Override
     public String toString() {
-		return "Entree\nSesame Soy Tartare\nBoston Clam Chowder\nThai Soup\n";
+		return "Entree:\nSesame Soy Tartare\nBoston Clam Chowder\nThai Soup\n";
 		
 	}
 }

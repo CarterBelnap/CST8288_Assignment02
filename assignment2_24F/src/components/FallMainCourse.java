@@ -12,6 +12,6 @@ public class FallMainCourse implements MainCourse{
     
 	@Override
     public String toString() {
-		return "Main Course\nSalmon Avocado Toast\nPesto Chicken Penne Asiago\nPortobello Mushroom Chicken\n";
+		return "Main Course:\nSalmon Avocado Toast\nPesto Chicken Penne Asiago\nPortobello Mushroom Chicken\n";
 	}
 }

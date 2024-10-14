@@ -12,6 +12,6 @@ public class SummerEntree implements Entree {
     
 	@Override
     public String toString() {
-		return "Entree\nAvocado Scramble\nLittle Gem Salad\nMiso Cauliflower Soup\n";
+		return "Entree:\nAvocado Scramble\nLittle Gem Salad\nMiso Cauliflower Soup\n";
 	}
 }

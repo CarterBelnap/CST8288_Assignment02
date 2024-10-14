@@ -12,7 +12,7 @@ public class SpringMainCourse implements MainCourse {
     
 	@Override
     public String toString() {
-		return "Main Course\nSunny Rise Burger\nCalifornia Spring Salad\n Crispy Chicken Sandwich\n";
+		return "Main Course:\nSunny Rise Burger\nCalifornia Spring Salad\n Crispy Chicken Sandwich\n";
 		
 	}   
     

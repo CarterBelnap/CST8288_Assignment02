@@ -12,7 +12,7 @@ public class FallDrink implements Drink {
 
 	@Override
     public String toString() {
-		return "Drinks\nMargarita\nDark Rum\nOrange Juice\n";
+		return "Drinks:\nMargarita\nDark Rum\nOrange Juice\n";
 		
 	}
 }

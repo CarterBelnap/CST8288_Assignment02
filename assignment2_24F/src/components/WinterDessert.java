@@ -11,7 +11,7 @@ package components;
 public class WinterDessert implements Dessert {
     
     public String toString() {
-		return "Desserts\nChocolate Mousse\nCaramel Cheesecake\nChocolate Sponge Cake\n";
+		return "Desserts:\nChocolate Mousse\nCaramel Cheesecake\nChocolate Sponge Cake\n";
 		
 	}
 }

@@ -12,7 +12,7 @@ public class SpringDrink implements Drink  {
 
 	@Override
     public String toString() {
-		return "Drinks\nCucumber Smash\nLime Juice\nCandy Apple Cider\n";
+		return "Drinks:\nCucumber Smash\nLime Juice\nCandy Apple Cider\n";
 		
 	}
 }

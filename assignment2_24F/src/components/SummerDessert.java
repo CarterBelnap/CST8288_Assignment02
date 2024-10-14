@@ -12,7 +12,7 @@ public class SummerDessert implements Dessert {
     
 	@Override
     public String toString() {
-		return "Desserts\nLime Pie\nUltimate Cookie\nChurro Ice Cream Sandwich\n";
+		return "Desserts:\nLime Pie\nUltimate Cookie\nChurro Ice Cream Sandwich\n";
 		
 	}
 }
